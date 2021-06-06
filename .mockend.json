@@ -9,5 +9,8 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  "test": {
+    "success": "boolean"
   }
 }
