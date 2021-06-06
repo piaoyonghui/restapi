@@ -10,7 +10,7 @@
     "body": "string",
     "post": "Post"
   },
-  "test": {
+  "Test": {
     "success": "boolean"
   }
 }
